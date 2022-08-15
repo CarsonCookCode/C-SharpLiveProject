@@ -1,4 +1,7 @@
-# C-SharpLiveProject
+# C-SharpLiveProject - Comments Section
+
+![CommentsSection](https://user-images.githubusercontent.com/73494842/184698449-ae3c1f65-bfaf-4e9a-a82a-510df292c211.PNG)
+
 
 ## Introduction
 
@@ -41,4 +44,8 @@ Here are some of the highlights from the project:
 ## Create & Reply Functionality
 
 ![create](https://user-images.githubusercontent.com/73494842/184698057-718deb68-c24a-4556-b022-e04c0e77879c.PNG)
+
+
+![CommentsSection](https://user-images.githubusercontent.com/73494842/184698333-84ae55dd-e180-4cc7-b732-914aceb46006.PNG)
+
 
