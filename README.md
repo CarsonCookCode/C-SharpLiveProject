@@ -4,6 +4,8 @@
 
 I worked in an Agile/Scrum environment to build an application demonstrating proficiency with C# in ASP .NET MVC and Entity Framework. My main responsibility was to create a comments section as a component of a website as per the client's requests and I completed my tasks according to the user stories assigned to me. We used Azure DevOps to manage our repositories and user stories. I developed a productive workflow after familiarizing myself with the tools at my disposal. Over the two week sprint I had many opportunities to learn what it means to work as part of a team on a single project.
 
+![CommentsSection](https://user-images.githubusercontent.com/73494842/185460480-88380dd1-edba-439e-b51c-067ff2e1fe5b.PNG)
+
 Here are some of the highlights from the project:
 
 ## Create and Style About Page
